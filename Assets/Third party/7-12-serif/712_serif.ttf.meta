@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ab0f8fd5c9abb8a498f6e7701f51dbc1
+timeCreated: 1512841631
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 7:12 Serif
+  fontNames:
+  - 7:12 Serif
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
